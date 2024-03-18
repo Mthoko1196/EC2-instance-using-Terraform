@@ -64,6 +64,10 @@ Before running this Terraform script, ensure the following:
     terraform destroy
     ```
 
+## AWS Well-Architected Framework
+![EC2 drawio (2)](https://github.com/Mthoko1196/EC2-instance-using-Terraform/assets/92365100/fa800867-af82-4540-bfcf-bc1be1602b16)
+
+
 ## Notes
 
 - Ensure that you review and understand the changes that Terraform will make before applying them to your AWS environment.
