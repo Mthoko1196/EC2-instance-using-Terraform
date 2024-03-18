@@ -69,6 +69,9 @@ Before running this Terraform script, ensure the following:
 - Ensure that you review and understand the changes that Terraform will make before applying them to your AWS environment.
 - Always follow security best practices, such as restricting access only to necessary IP addresses and regularly updating your infrastructure.
 
+## About Me
+
+I'm passionate about cloud technologies. This project is a part of my journey in learning and experimenting with AWS and Terraform.
 
 ## License
 
